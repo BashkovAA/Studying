@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FactorialCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FactorialCalculator/FactorialCalculator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

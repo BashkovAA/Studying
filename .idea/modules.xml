@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Massive/10_Massive.iml" filepath="$PROJECT_DIR$/10_Massive/10_Massive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Age/Age.iml" filepath="$PROJECT_DIR$/Age/Age.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank13.05.22/Bank13.05.22.iml" filepath="$PROJECT_DIR$/Bank13.05.22/Bank13.05.22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleans/Booleans.iml" filepath="$PROJECT_DIR$/Booleans/Booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleans08.03.22/Booleans08.03.22.iml" filepath="$PROJECT_DIR$/Booleans08.03.22/Booleans08.03.22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cargo13.05.22/Cargo13.05.22.iml" filepath="$PROJECT_DIR$/Cargo13.05.22/Cargo13.05.22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CassetsInBankomat/CassetsInBankomat.iml" filepath="$PROJECT_DIR$/CassetsInBankomat/CassetsInBankomat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeMachine/CoffeeMachine.iml" filepath="$PROJECT_DIR$/CoffeeMachine/CoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControllGearBox/ControllGearBox.iml" filepath="$PROJECT_DIR$/ControllGearBox/ControllGearBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/Cycles.iml" filepath="$PROJECT_DIR$/Cycles/Cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTime/DateTime.iml" filepath="$PROJECT_DIR$/DateTime/DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialCalculator/FactorialCalculator.iml" filepath="$PROJECT_DIR$/FactorialCalculator/FactorialCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FillingStation/FillingStation.iml" filepath="$PROJECT_DIR$/FillingStation/FillingStation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForCycle/ForCycle.iml" filepath="$PROJECT_DIR$/ForCycle/ForCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeModul1/HomeModul1.iml" filepath="$PROJECT_DIR$/HomeModul1/HomeModul1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Immutable-классы/Immutable-классы.iml" filepath="$PROJECT_DIR$/Immutable-классы/Immutable-классы.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternetShop6Lesson/InternetShop6Lesson.iml" filepath="$PROJECT_DIR$/InternetShop6Lesson/InternetShop6Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectsAndMethods6.4/ObjectsAndMethods6.4.iml" filepath="$PROJECT_DIR$/ObjectsAndMethods6.4/ObjectsAndMethods6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO-классы/POJO-классы.iml" filepath="$PROJECT_DIR$/POJO-классы/POJO-классы.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassengerLift/PassengerLift.iml" filepath="$PROJECT_DIR$/PassengerLift/PassengerLift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitives and objects/Primitives and objects.iml" filepath="$PROJECT_DIR$/Primitives and objects/Primitives and objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticExperiments/StaticExperiments.iml" filepath="$PROJECT_DIR$/StaticExperiments/StaticExperiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreBasket/StoreBasket.iml" filepath="$PROJECT_DIR$/StoreBasket/StoreBasket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwimmingPool/SwimmingPool.iml" filepath="$PROJECT_DIR$/SwimmingPool/SwimmingPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cycles1.1/cycles1.1.iml" filepath="$PROJECT_DIR$/cycles1.1/cycles1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internetShop/internetShop.iml" filepath="$PROJECT_DIR$/internetShop/internetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 4.2/Задание 4.2.iml" filepath="$PROJECT_DIR$/Задание 4.2/Задание 4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 4.3/Задание 4.3.iml" filepath="$PROJECT_DIR$/Задание 4.3/Задание 4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Учеба.iml" filepath="$PROJECT_DIR$/.idea/Учеба.iml" />
+    </modules>
+  </component>
+</project>

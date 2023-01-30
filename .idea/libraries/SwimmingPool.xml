@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SwimmingPool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SwimmingPool/SwimmingPool.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
