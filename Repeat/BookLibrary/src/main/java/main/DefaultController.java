@@ -18,7 +18,7 @@ public class DefaultController
     @Autowired
     private BookRepository bookRepository;
 
-    @Value("${someParameter.value}")
+    @Value("${someParameter}")
     private Integer someParameter;
 
     @RequestMapping("/")
