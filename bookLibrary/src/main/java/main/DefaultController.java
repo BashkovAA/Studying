@@ -7,22 +7,26 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
+import java.util.Date;
 
 @Controller
-public class DefaultController {
-
+public class DefaultController
+{
     @Autowired
     private BookRepository bookRepository;
-    @Value("${someParameter}")
+
+    @Value("${someParameter.value}")
     private Integer someParameter;
 
     @RequestMapping("/")
-    public String index(Model model) {
+    public String index(Model model)
+    {
         Iterable<Book> bookIterable = bookRepository.findAll();
         ArrayList<Book> books = new ArrayList<>();
-        for (Book book : bookIterable) {
+        for(Book book : bookIterable) {
             books.add(book);
         }
         model.addAttribute("books", books);
